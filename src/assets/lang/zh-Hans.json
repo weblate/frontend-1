@@ -1,1 +1,10 @@
-{}
+{
+    "OK": "OK",
+    "CANCEL": "取消",
+    "CONNERROR": "连接服务器失败，请检查您的互联网连接。",
+    "WIP": "此功能尚不可用。",
+    "QUESTION": {
+        "ANSWER": "{{value}}个回答",
+        "ANSWERS": "{{value}}个回答"
+    }
+}
